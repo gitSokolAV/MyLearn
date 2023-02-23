@@ -10,7 +10,9 @@ namespace CalculationLibrary
     {
         public double Add(double x, double y)
         {
+            Console.WriteLine("");
             return x + y;
+            
         }
     }
 }
